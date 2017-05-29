@@ -125,9 +125,9 @@ def h(w):
             p=(srdt[x][i]+sldt[x][i]-1)
     return (p)
     
-'''if __name__ == "__main__":
+if __name__ == "__main__":
         while True:
-            print(h(input()))'''
+            print(h(input()))
 
                 
                 
